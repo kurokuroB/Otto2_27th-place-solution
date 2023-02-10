@@ -1,5 +1,5 @@
-# Otto2_29th-place-solution
-kaggle「OTTO – Multi-Objective Recommender System」コンペで29th/2587チームを達成した際に使用したコードです。  
+# Otto2_27th-place-solution
+kaggle「OTTO – Multi-Objective Recommender System」コンペで27th/2587チームを達成した際に使用したコードです。  
 リファクタリングを加えているため、コンペ中に使用したコードと若干の差異があります。  
 
 - フォルダ内容
