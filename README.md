@@ -9,3 +9,4 @@ kaggle「OTTO – Multi-Objective Recommender System」コンペで27th/2587チ�
   - exp136: シングルベストのCatboost用コード
     - public: 0.59495
     - private: 0.59449
+  - features: 特徴量生成フォルダ
