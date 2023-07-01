@@ -1,6 +1,6 @@
 # otto2_27th-place-solution
 
-kaggle「OTTO – Multi-Objective Recommender System」コンペで 27th/2587 チームを達成した際に使用したコードです。  
+kaggle「[OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system)」コンペで 27th/2587 チームを達成した際に使用したコードです。  
 リファクタリングを加えているため、コンペ中に使用したコードと若干の差異があります。
 
 - フォルダ内容
